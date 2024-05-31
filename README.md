@@ -1,6 +1,6 @@
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Projeto criado para a prática módulo 10.
 
 ## Passo-a-passo para execução
 
